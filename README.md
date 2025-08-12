@@ -15,10 +15,10 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```bibtex
 @inbook{sh-p1-prelude,
   title        = {Part1 Prelude},
-  author       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers},
+  author       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ``` 
 </details>
@@ -31,7 +31,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Frank Dellaert and Michael Kaess and Timothy Barfoot},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -45,7 +45,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Timothy Barfoot and Frank Dellaert and Michael Kaess and Jose Luis Blanco-Claraco},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -59,7 +59,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Heng Yang and Josh Mangelson and Yun Chang and Jingnan Shi and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -73,7 +73,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Chen Wang and Krishna Murthy Jatavallabhula and Mustafa Mukadam},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 </details>
@@ -86,7 +86,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Victor Reijgwart and Jens Behley and Teresa Vidal-Calleja and Helen Oleynikova and Lionel Ott and Cyrill Stachniss and Ayoung Kim},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -100,7 +100,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {David M. Rosen and Kasra Khosoussi and Connor Holmes and Gamini Dissanayake and Timothy Barfoot and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -116,7 +116,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Ayoung Kim and Timothy Barfoot and Luca Carlone and Frank Dellaert and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -130,7 +130,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Jakob Engel and Juan D. Tard´os and Javier Civera and Margarita Chli and Stefan Leutenegger and Frank Dellaert and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -144,7 +144,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Jens Behley and Maurice Fallon and Shibo Zhao and Giseop Kim and Ji Zhang and Fu Zhang and Ayoung Kim},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -158,7 +158,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Martin Magnusson and Christoffer Heckman and Henrik Andreasson and Ayoung Kim and Timothy Barfoot and Michael Kaess and Paul Newman},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -172,7 +172,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Guillermo Gallego and Javier Hidalgo-Carri´o and Davide Scaramuzza},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -186,7 +186,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Guoquan (Paul) Huang and C´edric Le Gentil and Teresa Vidal-Calleja and Davide Scaramuzza and Frank Dellaert and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -200,7 +200,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Marco Camurri and Mat´ıas Mattamala},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ``` 
 </details>
@@ -215,7 +215,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Marc Pollefeys and Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -229,7 +229,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Zachary Teed and Jia Deng, Boris Chidlovskii and J´erome Revaud and Felix Wimbauer and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -243,7 +243,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Hidenobu Matsuki and Andrew J. Davison},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -257,7 +257,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Lukas Schmid and Jose Maria Martinez Montiel and Shoudong Huang and Daniel Cremers and Jose Neira and Javier Civera},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -271,7 +271,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Arash Asgharivaskasi and Kevin Doherty and Jens Behley and Nathan Hughes and Yun Chang and John Leonard and Henrik I. Christensen and Luca Carlone and Nikolay Atanasov},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -285,7 +285,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Liam Paull and Sacha Morin and Dominic Maggio and Martin B¨uchner and Cesar Cadena and Abhinav Valada and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ```
 
@@ -299,7 +299,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   author       = {Andrew J. Davison},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
 }
 ``` 
 </details>
@@ -313,9 +313,8 @@ If you need to cite it as a book, use the following bib.
 ```bibtex
 @book{slam-handbook,
   title        = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
-  author       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers},
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
   publisher    = {Cambridge University Press},
-  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
 }
 ``` 
 </details>
