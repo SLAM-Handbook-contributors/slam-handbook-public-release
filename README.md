@@ -313,8 +313,9 @@ If you need to cite it as a book, use the following bib.
 ```bibtex
 @book{slam-handbook,
   title        = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
-  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert}
+  editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
   publisher    = {Cambridge University Press},
+  year         = {2025}
 }
 ``` 
 </details>
