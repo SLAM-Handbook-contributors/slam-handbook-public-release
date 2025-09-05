@@ -2,7 +2,7 @@
 
 ## 1. SH_acronyms.sty
 
-It includes acronyms used in the book. 
+It includes acronyms used in the book. Include the following line at the beginning of the document.
 
 ```
 \usepackage{SH_acronyms}
