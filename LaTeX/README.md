@@ -7,6 +7,7 @@ It includes acronyms used in the book. Include the following line at the beginni
 ```
 \usepackage{SH_acronyms}
 ```
+Then from the document, use `\ac` command to use these predefined acronyms.
 
 ## 2. SH_string.bib
 
@@ -14,7 +15,7 @@ Include this string definition before your main bib file.
 ```
 \bibliography{SH_string,your_bibliography}
 ```
-Then, from the bib file, you can use the string for SLAM-related conferences and journals. For example,
+Then, from the bib file, you can use the string for SLAM-related conferences and journals. For example, you can use these predefined strings as **journal = tro,**
 
 ```
 @Article{cadena2016past,
