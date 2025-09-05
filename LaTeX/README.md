@@ -7,7 +7,11 @@ It includes acronyms used in the book. Include the following line at the beginni
 ```
 \usepackage{SH_acronyms}
 ```
-Then from the document, use `\ac` command to use these predefined acronyms.
+Then, from the document, use the `\ac` command to use these predefined acronyms. For example, 
+
+```
+\ac{SLAM}
+```
 
 ## 2. SH_string.bib
 
