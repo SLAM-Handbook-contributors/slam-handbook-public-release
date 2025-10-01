@@ -13,7 +13,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Part 1 Prelude</summary>
   
 ```bibtex
-@inbook{sh-p1-prelude,
+@incollection{sh-p1-prelude,
   title        = {Part1 Prelude},
   author       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -27,7 +27,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter1: Factor Graphs for SLAM</summary>
 
 ```bibtex
-@inbook{sh-ch1-fg4slam,
+@incollection{sh-ch1-fg4slam,
   title        = {Factor Graphs for SLAM},
   author       = {Frank Dellaert and Michael Kaess and Timothy Barfoot},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -42,7 +42,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter2: Advanced State Variable Representations</summary>
 
 ```bibtex
-@inbook{sh-ch2-state,
+@incollection{sh-ch2-state,
   title        = {Advanced State Variable Representations},
   author       = {Timothy Barfoot and Frank Dellaert and Michael Kaess and Jose Luis Blanco-Claraco},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -57,7 +57,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter3: Robustness to Incorrect Data Association and Outliers</summary>
 
 ```bibtex
-@inbook{sh-ch3-outlier,
+@incollection{sh-ch3-outlier,
   title        = {Robustness to Incorrect Data Association and Outliers},
   author       = {Heng Yang and Josh Mangelson and Yun Chang and Jingnan Shi and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -72,7 +72,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter4: Differentiable Optimization</summary>
   
 ```bibtex
-@inbook{sh-ch4-diffopt,
+@incollection{sh-ch4-diffopt,
   title        = {Differentiable Optimization},
   author       = {Chen Wang and Krishna Murthy Jatavallabhula and Mustafa Mukadam},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -86,7 +86,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter5: Dense Map Representation</summary>
 
 ```bibtex
-@inbook{sh-ch5-map,
+@incollection{sh-ch5-map,
   title        = {Dense Map Representation},
   author       = {Victor Reijgwart and Jens Behley and Teresa Vidal-Calleja and Helen Oleynikova and Lionel Ott and Cyrill Stachniss and Ayoung Kim},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -101,7 +101,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter6: Theoretical Properties</summary>
   
 ```bibtex
-@inbook{sh-ch6-theory,
+@incollection{sh-ch6-theory,
   title        = {Certifiably Optimal Solvers and Theoretical Properties of {SLAM}},
   author       = {David M. Rosen and Kasra Khosoussi and Connor Holmes and Gamini Dissanayake and Timothy Barfoot and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -118,7 +118,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Part 2 Prelude</summary>
   
 ```bibtex
-@inbook{sh-p2-prelude,
+@incollection{sh-p2-prelude,
   title        = {Part 2 Prelude},
   author       = {Ayoung Kim and Timothy Barfoot and Luca Carlone and Frank Dellaert and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -133,7 +133,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter7: Visual SLAM</summary>
   
 ```bibtex
-@inbook{sh-ch7-vision,
+@incollection{sh-ch7-vision,
   title        = {Visual {SLAM}},
   author       = {Jakob Engel and Juan D. Tard´os and Javier Civera and Margarita Chli and Stefan Leutenegger and Frank Dellaert and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -148,7 +148,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter8: LiDAR SLAM</summary>
   
 ```bibtex
-@inbook{sh-ch8-lidar,
+@incollection{sh-ch8-lidar,
   title        = {{LiDAR SLAM}},
   author       = {Jens Behley and Maurice Fallon and Shibo Zhao and Giseop Kim and Ji Zhang and Fu Zhang and Ayoung Kim},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -163,7 +163,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter9: Radar SLAM</summary>
   
 ```bibtex
-@inbook{sh-ch9-radar,
+@incollection{sh-ch9-radar,
   title        = {Radar {SLAM}},
   author       = {Martin Magnusson and Christoffer Heckman and Henrik Andreasson and Ayoung Kim and Timothy Barfoot and Michael Kaess and Paul Newman},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -178,7 +178,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter10: Event-based SLAM</summary>
   
 ```bibtex
-@inbook{sh-ch10-event,
+@incollection{sh-ch10-event,
   title        = {Event-based {SLAM}},
   author       = {Guillermo Gallego and Javier Hidalgo-Carri´o and Davide Scaramuzza},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -193,7 +193,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter11: Inertial Odometry for SLAM</summary>
   
 ```bibtex
-@inbook{sh-ch11-imu,
+@incollection{sh-ch11-imu,
   title        = {Inertial Odometry for {SLAM}},
   author       = {Guoquan (Paul) Huang and C´edric Le Gentil and Teresa Vidal-Calleja and Davide Scaramuzza and Frank Dellaert and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -208,7 +208,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter12: Leg Odometry for SLAM</summary>
   
 ```bibtex
-@inbook{sh-ch12-proprio,
+@incollection{sh-ch12-proprio,
   title        = {Leg Odometry for {SLAM}},
   author       = {Marco Camurri and Mat´ıas Mattamala},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -224,7 +224,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Part 3 Prelude</summary>
   
 ```bibtex
-@inbook{sh-p3-prelude,
+@incollection{sh-p3-prelude,
   title        = {Part3 Prelude},
   author       = {Marc Pollefeys and Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -239,7 +239,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter13: Boosting SLAM with Deep Learning</summary>
   
 ```bibtex
-@inbook{sh-ch13-dl4slam,
+@incollection{sh-ch13-dl4slam,
   title        = {Boosting {SLAM} with Deep Learning},
   author       = {Zachary Teed and Jia Deng, Boris Chidlovskii and J´erome Revaud and Felix Wimbauer and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -254,7 +254,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter14: Map Representations with Differentiable Volume Rendering</summary>
   
 ```bibtex
-@inbook{sh-ch14-nerfgs,
+@incollection{sh-ch14-nerfgs,
   title        = {Map Representations with Differentiable Volume Rendering},
   author       = {Hidenobu Matsuki and Andrew J. Davison},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -269,7 +269,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter15: Dynamic and Deformable SLAM</summary>
   
 ```bibtex
-@inbook{sh-ch15-dyndef,
+@incollection{sh-ch15-dyndef,
   title        = {Dynamic and Deformable {SLAM}},
   author       = {Lukas Schmid and Jose Maria Martinez Montiel and Shoudong Huang and Daniel Cremers and Jose Neira and Javier Civera},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -284,7 +284,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter16: Metric-Semantic SLAM</summary>
   
 ```bibtex
-@inbook{sh-ch16-semantic,
+@incollection{sh-ch16-semantic,
   title        = {Metric-Semantic {SLAM}},
   author       = {Arash Asgharivaskasi and Kevin Doherty and Jens Behley and Nathan Hughes and Yun Chang and John Leonard and Henrik I. Christensen and Luca Carlone and Nikolay Atanasov},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -299,7 +299,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter17: Towards Open-World Spatial AI</summary>
   
 ```bibtex
-@inbook{sh-ch17-openworld,
+@incollection{sh-ch17-openworld,
   title        = {Towards Open-World Spatial {AI}},
   author       = {Liam Paull and Sacha Morin and Dominic Maggio and Martin B¨uchner and Cesar Cadena and Abhinav Valada and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
@@ -314,7 +314,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 <details><summary>Chapter18: The Computational Structure of Spatial AI Systems</summary>
   
 ```bibtex
-@inbook{sh-ch18-spatial-ai,
+@incollection{sh-ch18-spatial-ai,
   title        = {The Computational Structure of Spatial {AI} Systems},
   author       = {Andrew J. Davison},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
