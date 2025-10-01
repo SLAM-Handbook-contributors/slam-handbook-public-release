@@ -28,7 +28,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 
 ```bibtex
 @incollection{sh-ch1-fg4slam,
-  title        = {Factor Graphs for SLAM},
+  title        = {Factor Graphs for {SLAM}},
   author       = {Frank Dellaert and Michael Kaess and Timothy Barfoot},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
@@ -135,7 +135,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```bibtex
 @incollection{sh-ch7-vision,
   title        = {Visual {SLAM}},
-  author       = {Jakob Engel and Juan D. Tard´os and Javier Civera and Margarita Chli and Stefan Leutenegger and Frank Dellaert and Daniel Cremers},
+  author       = {Jakob Engel and Juan D. Tard{\'o}s and Javier Civera and Margarita Chli and Stefan Leutenegger and Frank Dellaert and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
@@ -180,7 +180,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```bibtex
 @incollection{sh-ch10-event,
   title        = {Event-based {SLAM}},
-  author       = {Guillermo Gallego and Javier Hidalgo-Carri´o and Davide Scaramuzza},
+  author       = {Guillermo Gallego and Javier Hidalgo-Carri{\'o} and Davide Scaramuzza},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
@@ -195,7 +195,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```bibtex
 @incollection{sh-ch11-imu,
   title        = {Inertial Odometry for {SLAM}},
-  author       = {Guoquan (Paul) Huang and C´edric Le Gentil and Teresa Vidal-Calleja and Davide Scaramuzza and Frank Dellaert and Luca Carlone},
+  author       = {Guoquan (Paul) Huang and C{\'e}dric Le Gentil and Teresa Vidal-Calleja and Davide Scaramuzza and Frank Dellaert and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
@@ -210,7 +210,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```bibtex
 @incollection{sh-ch12-proprio,
   title        = {Leg Odometry for {SLAM}},
-  author       = {Marco Camurri and Mat´ıas Mattamala},
+  author       = {Marco Camurri and Mat{\'ı}as Mattamala},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
@@ -241,7 +241,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```bibtex
 @incollection{sh-ch13-dl4slam,
   title        = {Boosting {SLAM} with Deep Learning},
-  author       = {Zachary Teed and Jia Deng, Boris Chidlovskii and J´erome Revaud and Felix Wimbauer and Daniel Cremers},
+  author       = {Zachary Teed and Jia Deng, Boris Chidlovskii and J{\'e}rome Revaud and Felix Wimbauer and Daniel Cremers},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
@@ -271,7 +271,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```bibtex
 @incollection{sh-ch15-dyndef,
   title        = {Dynamic and Deformable {SLAM}},
-  author       = {Lukas Schmid and Jose Maria Martinez Montiel and Shoudong Huang and Daniel Cremers and Jose Neira and Javier Civera},
+  author       = {Lukas Schmid and Jos{\'e} Mar{\'i}a Mart{\'i}nez Montiel and Shoudong Huang and Daniel Cremers and Jos{\'e} Neira and Javier Civera},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
@@ -301,7 +301,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```bibtex
 @incollection{sh-ch17-openworld,
   title        = {Towards Open-World Spatial {AI}},
-  author       = {Liam Paull and Sacha Morin and Dominic Maggio and Martin B¨uchner and Cesar Cadena and Abhinav Valada and Luca Carlone},
+  author       = {Liam Paull and Sacha Morin and Dominic Maggio and Martin B{\"u}chner and Cesar Cadena and Abhinav Valada and Luca Carlone},
   booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Timothy Barfoot and Daniel Cremers and Frank Dellaert},
