@@ -1,6 +1,6 @@
 # SLAM Handbook Public Release
 
-<img width="85" height="128" alt="sh-book-cover" src="https://github.com/user-attachments/assets/f529ffcf-9b9c-4f77-bfe3-ae0222a9296f" />
+<img width="170" height="256" alt="sh-book-cover" src="https://github.com/user-attachments/assets/f529ffcf-9b9c-4f77-bfe3-ae0222a9296f" />
 
 Together with a large number of experts in Simultaneous Localization and Mapping (SLAM) we are preparing the **SLAM Handbook** to be published by Cambridge University Press. This book will cover the theoretical background of SLAM, its applications, and its future as spatial AI. We expect this handbook will be a good guideline for those working in this field. 
 
